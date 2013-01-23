@@ -21,8 +21,8 @@
     "files": "test/*.js"
   },
   "devDependencies": {
-    "chai": "~1.4.2",
-    "mocha": "1.8.*",
+    "chai": "*",
+    "mocha": "*",
     "coffee-script": "*"
   }
 }
