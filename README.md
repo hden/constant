@@ -1,4 +1,4 @@
-Constant.coffee
+#Constant.coffee
 A constant helper using accessor method via Object.defineProperty
 
 Usage

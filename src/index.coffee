@@ -6,3 +6,4 @@ module.exports =
       get: -> value
       set: ->
         throw new Error "accessing constant #{key}" if @throwsError
+    return @
