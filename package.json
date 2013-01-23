@@ -18,7 +18,7 @@
       "safari": [ 5.1 ]
     },
     "harness" : "mocha",
-    "files": "test/*.js"
+    "files": "test/*.coffee"
   },
   "devDependencies": {
     "chai": "*",
